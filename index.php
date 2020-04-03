@@ -1,3 +1,3 @@
 <?php
 
-echo "This s test proram";
+echo "This s test proram dwmed3";
